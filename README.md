@@ -4,22 +4,22 @@ Android
 
 --------------------------------------------------------------------------------------
 
-Date -- 01/05/18 -- android hive for all examples ---
+android hive for all examples ---
 http://download.androidhive.info/
 
 --------------------------------------------------------------------------------------
 
-Date -- 01/05/18 -- Navigation driwer all examples ---
+Navigation driwer all examples ---
 https://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/
 
 --------------------------------------------------------------------------------------
 
-Date -- 24/10/18 -- Spinner Country,State,City
+Spinner Country,State,City
 https://github.com/pankajnimgade/Tutorial/blob/master/app/src/main/java/spinner/list/activities/SpinnerCountryActivity.java
 
 --------------------------------------------------------------------------------------
+Notification
 
-Date -- 09/01/18 --- Notification
 https://www.journaldev.com/15468/android-notification-styling
 https://www.concretepage.com/android/android-notification-example-with-vibration-sound-action-and-big-view-styles
 https://www.androidhive.info/2016/10/android-push-notifications-using-firebase-cloud-messaging-fcm-php/8/
