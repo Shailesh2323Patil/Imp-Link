@@ -2,19 +2,18 @@
 
 Android
 
---------------------------------------------------------------------------------------
-
 android hive for all examples ---
+
 http://download.androidhive.info/
 
 --------------------------------------------------------------------------------------
-
 Navigation driwer all examples ---
+
 https://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/
 
 --------------------------------------------------------------------------------------
-
 Spinner Country,State,City
+
 https://github.com/pankajnimgade/Tutorial/blob/master/app/src/main/java/spinner/list/activities/SpinnerCountryActivity.java
 
 --------------------------------------------------------------------------------------
@@ -25,112 +24,133 @@ https://www.concretepage.com/android/android-notification-example-with-vibration
 https://www.androidhive.info/2016/10/android-push-notifications-using-firebase-cloud-messaging-fcm-php/8/
 
 Alert Notification
+
 http://www.java2s.com/Code/Android/UI/ShowNotificationAlertDialog.htm
 
 --------------------------------------------------------------------------------------
-
 Custom Dialog Box
+
 https://www.simplifiedcoding.net/android-custom-dialog-example/
 
 --------------------------------------------------------------------------------------
-
 Recycler View
+
 https://www.androidhive.info/2016/01/android-working-with-recycler-view/
 
 --------------------------------------------------------------------------------------
-
 Web View With Opening HyperLink
+
 https://www.journaldev.com/9333/android-webview-example-tutorial
 
 --------------------------------------------------------------------------------------
-
 Geo Location WebView
+
 https://medium.com/@xabaras/android-webview-handling-geolocation-permission-request-cc482f3de210
 
 --------------------------------------------------------------------------------------
+Image Intro Slider
 
-Image Into Slider
 https://www.androidhive.info/2016/05/android-build-intro-slider-a
 
 Create Image Slider
+
 https://www.androidhive.info/2013/09/android-fullscreen-image-slider-with-swipe-and-pinch-zoom-gestures/
 
 --------------------------------------------------------------------------------------
-
 Current location example
+
 https://stackoverflow.com/questions/1513485/how-do-i-get-the-current-gps-location-programmatically-in-android
 
 --------------------------------------------------------------------------------------
 
 Instamojo PaymentGateway Intergration
+
 https://www.youtube.com/watch?v=2x6xlnYnHjc
 
 --------------------------------------------------------------------------------------
-
 Encryption Decryption
+
 https://www.androprogrammer.com/2016/04/data-encryption-and-decryption-in.html
 
 --------------------------------------------------------------------------------------
-
 Screen Resolution Sizes
+
 https://stackoverflow.com/questions/13487124/android-splash-screen-sizes-for-ldpi-mdpi-hdpi-xhdpi-displays-eg-1024x76
 
 --------------------------------------------------------------------------------------
-
 Custom Shapes in Image View
+
 https://stackoverflow.com/questions/41343305/custom-imageview-with-a-custom-shape
 
 --------------------------------------------------------------------------------------
-
 No Internet Connection
+
 https://www.androidhive.info/2012/07/android-detect-internet-connection-status/
 https://www.tutorialspoint.com/how-to-check-internet-connection-in-android
 Note : used both example
 
 --------------------------------------------------------------------------------------
-
 Network Running Slow in Android
+
 https://android.jlelse.eu/designing-android-apps-to-handle-slow-network-speed-dedc04119aac
 
 --------------------------------------------------------------------------------------
-
 Smooth Scroller
+
 https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7
 
 --------------------------------------------------------------------------------------
-
 Firebase token
+
 https://medium.com/@cdmunoz/fcm-getinstance-gettoken-in-android-is-now-deprecated-how-to-fix-it-3922a94f4fa4
 
 --------------------------------------------------------------------------------------
-
 MVVM Login Example
+
 https://github.com/CHIRANJIT1988/android-mvvm-livedata-sample-login
 https://github.com/umangburman/MVVM-DataBinding-With-LiveData-Login
 
 --------------------------------------------------------------------------------------
-
 Facebook Key Hash
+
 https://stackoverflow.com/questions/7506392/how-to-create-android-facebook-key-hash
 
 --------------------------------------------------------------------------------------
-
 Get File Path From URI
+
 https://stackoverflow.com/questions/13209494/how-to-get-the-full-file-path-from-uri
 
 --------------------------------------------------------------------------------------
-
 Spring Boot Tutorial
+
 --> https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4
 
 --------------------------------------------------------------------------------------
+Java Swing 
 
-Retrofit api calling with RXJAVA
-https://www.androidhive.info/RxJava/android-rxjava-networking-with-retrofit-gson-notes-app/
+JList
+
+--> https://www.youtube.com/watch?v=qPMesvqZsmA
 
 --------------------------------------------------------------------------------------
 
+Custom JList
+
+--> https://www.youtube.com/watch?v=cjVB8wT4kA0
+
+--------------------------------------------------------------------------------------
+JTabbed Pane
+
+--> https://www.youtube.com/watch?v=qP2tXh4Pd_8
+
+--------------------------------------------------------------------------------------
+Retrofit api calling with RXJAVA
+
+https://www.androidhive.info/RxJava/android-rxjava-networking-with-retrofit-gson-notes-app/
+
+--------------------------------------------------------------------------------------
 Upload File Using Retrofit
+
 → https://futurestud.io/tutorials/retrofit-2-how-to-upload-files-to-server
 → https://www.simplifiedcoding.net/retrofit-upload-file-tutorial/
 → https://stackoverflow.com/questions/36491096/retrofit-multipart-request-required-multipartfile-parameter-file-is-not-pre  ****
@@ -157,6 +177,13 @@ https://github.com/square/retrofit/issues/1218
 
 Download Image from server
 https://www.simplifiedcoding.net/android-download-image-from-server-using-php-and-mysql/
+
+
+Retrofit Pass Post Parameter as Json Object
+
+https://stackoverflow.com/questions/26022133/how-can-i-delete-the-namevaluepairs-key-from-the-jsonobject#:~:text=Retrofit%20by%20default%20uses%20GSON,bodies%20to%20and%20from%20JSON.&text=When%20you%20pass%20JSONObject%20to,%22actual%20JSON%20Object%22%7D.
+
+https://stackoverflow.com/questions/21398598/how-to-post-raw-whole-json-in-the-body-of-a-retrofit-request/21423093#21423093
 
 --------------------------------------------------------------------------------------
 
@@ -291,6 +318,12 @@ https://medium.com/androiddevelopers/android-data-binding-that-include-thing-1c8
 Databinding TextWatcher
 https://stackoverflow.com/questions/33798426/how-to-databind-to-ontextchanged-for-an-edittext-on-android
 
+DataBinding NumberPicker
+https://stackoverflow.com/questions/48368009/how-to-pass-numberpicker-value-onvaluechange-through-data-binding
+
+DataBinding RadioGroup
+https://stackoverflow.com/questions/39427178/how-to-bind-method-on-radiogroup-on-checkchanged-event-with-data-binding
+
 --------------------------------------------------------------------------------------
 
 Firebase
@@ -357,11 +390,12 @@ https://stackoverflow.com/questions/31713628/change-menuitem-text-color-programm
 
 --------------------------------------------------------------------------------------
 Expandable Recycler View With Check Box
+1)  https://acadgild.com/blog/expandable-recyclerview-in-android-with-examples --> *** HealthConcept
 
-https://acadgild.com/blog/expandable-recyclerview-in-android-with-examples --> *** Project : HelthConcept ***
+Relevant Github Example
+https://www.codexpedia.com/android/android-nested-recyclerviews-with-expandable-list/
+https://github.com/codexpedia/android_nested_recyclerview
 
-
-Github Example
 https://github.com/thoughtbot/expandable-recycler-view
 
 https://github.com/ayalma/ExpandableRecyclerView
@@ -420,6 +454,14 @@ https://www.javatpoint.com/android-edittext-with-textwatcher#:~:text=Android%20E
 
 https://www.youtube.com/watch?v=OWwOSLfWboY
 
+
+ActoComplete Filter With Dailog Box
+https://www.zoftino.com/android-search-dialog-with-search-suggestions-example
+
+
+Recycler View Search Filter
+https://www.androidhive.info/2017/11/android-recyclerview-with-search-filter-functionality/
+
 --------------------------------------------------------------------------------------
 
 Shape Circle Design
@@ -466,5 +508,221 @@ https://stackoverflow.com/questions/55949435/how-to-detect-incoming-calls-in-and
 Communication Between BroadCast Receiver to Activity
 https://stackoverflow.com/questions/22241705/calling-a-activity-method-from-broadcastreceiver-in-android
 
+
+--------------------------------------------------------------------------------------
+
+Audio Vizualizer
+
+https://android-arsenal.com/tag/242
+
+https://github.com/GautamChibde/android-audio-visualizer ****
+
+https://android-arsenal.com/details/1/5699
+
+https://android-arsenal.com/details/1/6503
+
+https://android-arsenal.com/details/1/7204
+
+https://android-arsenal.com/details/1/5699
+
+https://android-arsenal.com/details/1/6156
+
+https://android-arsenal.com/details/1/3329
+
+https://android-arsenal.com/details/1/1558
+
+https://stackoverflow.com/questions/32564809/implement-google-play-music-like-animation-3-bar-spectrum-beside-playlist-item/32594703
+
+https://stackoverflow.com/questions/49606533/audio-record-playback-animation-on-android
+
+--------------------------------------------------------------------------------------
+
+Material Design Navigation Drawer
+
+https://medium.com/@velmm/getting-started-with-navigation-drawer-in-android-material-design-382ab03b97dd
+
+
+Material Design Code
+
+https://github.com/Eajy/MaterialDesignDemo
+
+https://github.com/Eajy/MaterialDesign2
+--------------------------------------------------------------------------------------
+
+Android Arsenal Library and Apps From Github
+
+https://android-arsenal.com/tag/242?sort=created
+
+--------------------------------------------------------------------------------------
+Multiple Screen Resolution Android
+
+https://www.youtube.com/watch?v=y0PkZO0_-e8&list=PLlxmoA0rQ-LxzODHiuU3r6WxzgUT_emk_&index=9 ***
+
+https://www.youtube.com/watch?v=n784uKM6ayg ***
+
+Trouble Shoot
+
+https://medium.com/programming-lite/best-practices-for-supporting-android-application-in-multiple-screen-a685afa83493
+
+https://stackoverflow.com/questions/32860815/how-to-define-dimens-xml-for-every-different-screen-size-in-android
+
+--------------------------------------------------------------------------------------
+
+Expandable CardView
+
+https://www.youtube.com/watch?v=19E85PngufY
+
+
+Expandable TextView
+
+https://www.youtube.com/watch?v=gkrZ_xOYQJ4
+
+
+Github Card View
+
+https://github.com/topics/cardview?l=java
+
+https://github.com/hasancse91/Android-CardView-RecyclerView
+
+https://github.com/lightSky/Awesome-MaterialDesign
+
+https://github.com/eugenebrusov/android-cards
+
+https://github.com/7rajatgupta/CardView
+
+--------------------------------------------------------------------------------------
+
+Constraint Layout
+
+https://www.youtube.com/watch?v=rzmB3UxxhaA
+
+https://www.youtube.com/watch?v=4N4bCdyGcUc
+
+--------------------------------------------------------------------------------------
+
+Awesome android 
+
+https://github.com/lightSky/Awesome-MaterialDesign
+
+--------------------------------------------------------------------------------------
+Search View with Toolbar
+
+https://www.youtube.com/watch?v=pM1fAmUQn8g ***
+
+TroubleShoot 
+Search view Text Color
+https://stackoverflow.com/questions/11321129/is-it-possible-to-change-the-textcolor-on-an-android-searchview
+
+search view back button color android
+https://stackoverflow.com/questions/41697420/android-searchview-back-button-color-change
+
+search view close icon android
+https://stackoverflow.com/questions/30653672/customize-close-icon-in-searchview
+
+Search View Dailog with toolbar
+
+https://developer.android.com/guide/topics/search/search-dialog#java
+
+https://www.google.com/search?q=search+interface+search+dialog+android+example&oq=search+interface+search+dialog+android+example&aqs=chrome..69i57j0l4.28846j1j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/Ferfalk/SimpleSearchView ***
+
+https://www.youtube.com/watch?v=9OWmnYPX1uc 
+
+https://docs.huihoo.com/android/2.2/guide/topics/search/search-dialog.html 
+
+http://innovativenetsolutions.com/2013/07/android-tutorial-search-interface-search-dialog/ 
+
+https://www.youtube.com/watch?v=t16vWYlfGmo
+
+https://github.com/mirrajabi/search-dialog
+
+https://github.com/naseemakhtar994/Search-Dialog-1
+
+https://github.com/ajithvgiri/Search-Dialog
+
+https://github.com/topics/android-searchview
+
+https://github.com/mars885/persistentsearchview 
+
+
+--------------------------------------------------------------------------------------
+
+Github Layout Design
+
+Profile
+
+https://github.com/iamriajul/ModernSimpleProfileUI
+
+
+https://github.com/theindianappguy/SampleProfileUi  ****
+
+
+https://github.com/zmqgithub/profile_app
+
+--------------------------------------------------------------------------------------
+
+Camera X Example JAVA
+
+https://medium.com/@akhilbattula/android-camerax-java-example-aeee884f9102
+https://github.com/akhilbattula/android-camerax-java  *** For Acessing Camera
+
+https://proandroiddev.com/android-camerax-preview-analyze-capture-1b3f403a9395
+
+https://proandroiddev.com/update-android-camerax-4a44c3e4cdcc
+
+https://github.com/xiandanin/CameraX
+
+https://github.com/adk96r/CameraX
+
+https://github.com/amoseui/CameraX
+
+https://github.com/thunderedge/CameraX
+
+https://androidx.de/androidx/camera/core/VideoCapture.html  ---- android docs
+
+CameraX With Java Implementation
+https://stackoverflow.com/questions/58482850/does-camerax-support-to-record-video-with-kotlin?answertab=active#tab-top
+
+Camera2
+https://www.youtube.com/watch?v=kGRP0dezoBM
+https://androidwave.com/video-recording-with-camera2-api-android/
+https://android.googlesource.com/platform/development/+/abededd/samples/browseable/Camera2Video/src/com.example.android.camera2video/Camera2VideoFragment.java?autodive=0%2F%2F%2F%2F ***
+
+--------------------------------------------------------------------------------------
+
+Camera x Example KOTLIN
+
+https://github.com/android/camera-samples/tree/master/CameraXBasic  -- Google
+
+https://github.com/akexorcist/CameraX-Sample
+
+https://github.com/CapTechMobile/camerax-sample
+
+https://github.com/robertlevonyan/CameraXDemo ***
+
+https://github.com/husaynhakeem/android-camerax-sample
+
+--------------------------------------------------------------------------------------
+
+ViewPager2 (Video Playing Like Tick Tok Application)
+
+https://www.youtube.com/watch?v=PhqhYUwkCXM ***
+
+ViewPager with Tab Layout (Use With Fragments)
+
+https://howto.lintel.in/tablayout-example-using-viewpager-fragments-android/
+
+ViewPager2 with Tab Layout (Use With Fragments)
+ 
+https://androidwave.com/viewpager2-with-tablayout-android-example/ ***
+
+https://androidwave.com/viewpager2-with-fragments-android-example/
+
+--------------------------------------------------------------------------------------
+
+InstaMaterial App Like Instagram
+
+https://github.com/frogermcs/InstaMaterial
 
 --------------------------------------------------------------------------------------
