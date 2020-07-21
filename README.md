@@ -1,20 +1,17 @@
-# Imp-Link
+Grocery and Vegetable Delivery Android App with Admin Panel
+
+https://codecanyon.net/item/supermarket-grocery-store-android-apps-complete-package-with-3-apps/22083396
+
+--------------------------------------------------------------------------------------
+######################################################################################
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+--------------------------------------------------------------------------------------
 
 Android
 
 android hive for all examples ---
 
 http://download.androidhive.info/
-
---------------------------------------------------------------------------------------
-Navigation driwer all examples ---
-
-https://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/
-
---------------------------------------------------------------------------------------
-Spinner Country,State,City
-
-https://github.com/pankajnimgade/Tutorial/blob/master/app/src/main/java/spinner/list/activities/SpinnerCountryActivity.java
 
 --------------------------------------------------------------------------------------
 Notification
@@ -37,6 +34,8 @@ Recycler View
 
 https://www.androidhive.info/2016/01/android-working-with-recycler-view/
 
+Improve Performance of RecyclerView
+https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7
 --------------------------------------------------------------------------------------
 Web View With Opening HyperLink
 
@@ -63,9 +62,16 @@ https://stackoverflow.com/questions/1513485/how-do-i-get-the-current-gps-locatio
 
 --------------------------------------------------------------------------------------
 
+PaymentGateway
+
 Instamojo PaymentGateway Intergration
 
 https://www.youtube.com/watch?v=2x6xlnYnHjc
+
+CCavenue Payment Gateway
+https://github.com/senthilinfo62/ccavenue-payment-gateway-integration-in-android-sdk-master
+https://www.youtube.com/results?search_query=ccavenue+payment+gateway+integration+in+android+studio+example
+
 
 --------------------------------------------------------------------------------------
 Encryption Decryption
@@ -98,11 +104,6 @@ https://android.jlelse.eu/designing-android-apps-to-handle-slow-network-speed-de
 Smooth Scroller
 
 https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7
-
---------------------------------------------------------------------------------------
-Firebase token
-
-https://medium.com/@cdmunoz/fcm-getinstance-gettoken-in-android-is-now-deprecated-how-to-fix-it-3922a94f4fa4
 
 --------------------------------------------------------------------------------------
 MVVM Login Example
@@ -144,9 +145,21 @@ JTabbed Pane
 --> https://www.youtube.com/watch?v=qP2tXh4Pd_8
 
 --------------------------------------------------------------------------------------
+RXJAVA Observables
+https://www.androidhive.info/RxJava/android-rxjava-networking-with-retrofit-gson-notes-app/
+
+Retrofit api calling
+
+https://www.journaldev.com/13639/retrofit-android-example-tutorial
+
 Retrofit api calling with RXJAVA
 
 https://www.androidhive.info/RxJava/android-rxjava-networking-with-retrofit-gson-notes-app/
+
+https://www.journaldev.com/20433/android-rxjava-retrofit
+
+Retrofit OkHttp Offline Caching
+https://www.journaldev.com/23297/android-retrofit-okhttp-offline-caching
 
 --------------------------------------------------------------------------------------
 Upload File Using Retrofit
@@ -196,6 +209,10 @@ https://stackoverflow.com/questions/3425906/creating-temporary-files-in-android
 Video Call in Android
 
 https://www.simplifiedcoding.net/video-call-android-tutorial/
+
+(Youtube Chirag kachhadiya)
+Video 1 : https://www.youtube.com/watch?v=WvJBXWiSkTU&t=3s 
+VIdeo 2 : https://www.youtube.com/watch?v=P54aEc4QYzI
 
 --------------------------------------------------------------------------------------
 
@@ -294,10 +311,11 @@ Upload Project on BitBucket
 https://www.youtube.com/watch?v=rqiGXdtlaKc
 
 --------------------------------------------------------------------------------------
-Select Spinner Item Using Data Binding
+Spinner Design
+https://stackoverflow.com/questions/11188398/how-to-change-the-spinner-background-in-android
 
-https://stackoverflow.com/questions/37874091/android-spinner-data-binding-using-xml-and-show-the-selected-values
-
+Spinner Country,State,City
+https://github.com/pankajnimgade/Tutorial/blob/master/app/src/main/java/spinner/list/activities/SpinnerCountryActivity.java
 --------------------------------------------------------------------------------------
 Dialog Transparent Corner
 
@@ -324,29 +342,37 @@ https://stackoverflow.com/questions/48368009/how-to-pass-numberpicker-value-onva
 DataBinding RadioGroup
 https://stackoverflow.com/questions/39427178/how-to-bind-method-on-radiogroup-on-checkchanged-event-with-data-binding
 
+Databinding Spinner
+https://stackoverflow.com/questions/5787809/get-spinner-selected-items-text
+https://stackoverflow.com/questions/37874091/android-spinner-data-binding-using-xml-and-show-the-selected-values
 --------------------------------------------------------------------------------------
 
 Firebase
 
-TroubleShoot With Firebase Problems
-https://stackoverflow.com/questions/38917227/firebase-manage-multiple-auth-provider
-
 Firebase Login with Google Account
 https://www.youtube.com/watch?v=bBJF1M5h_UU&list=PL5jb9EteFAOCO_uRl2--aQ-0d8r01QjS-&index=4
 
-Firebase Login with Google TroubleShoot
+TroubleShoot With Firebase Problems
+https://stackoverflow.com/questions/38917227/firebase-manage-multiple-auth-provider
+
+TroubleShoot Firebase Login with Google 
 https://stackoverflow.com/questions/47619229/google-sign-in-failed-com-google-android-gms-common-api-apiexception-10
+
+Firebase Authentication Google Signout
+https://stackoverflow.com/questions/38707133/google-firebase-sign-out-and-forget-user-in-android-app
 
 Firebase Login With Facebook Account
 https://www.youtube.com/watch?v=ImbuK35vmzs
 
-Firebase Login With Facebook TroubleShoot
+TroubleShoot Firebase Login With Facebook 
 https://stackoverflow.com/questions/41861564/server-error-code-1675030-message-error-performing-query
-
 
 Firebase Authenticate Phone Number
 https://firebase.google.com/docs/auth/android/phone-auth
 
+
+Firebase token
+https://medium.com/@cdmunoz/fcm-getinstance-gettoken-in-android-is-now-deprecated-how-to-fix-it-3922a94f4fa4
 
 
 --------------------------------------------------------------------------------------
@@ -476,8 +502,22 @@ Bottom Navigation
 https://www.youtube.com/watch?v=tPV8xA7m-iw&feature=youtu.be
 https://androidwave.com/bottom-navigation-bar-android-example/
 
+Material Design Navigation Drawer
+https://medium.com/@velmm/getting-started-with-navigation-drawer-in-android-material-design-382ab03b97dd
+
+Navigation driwer all examples ---
+https://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/
 
 --------------------------------------------------------------------------------------
+
+Material Design Code
+
+https://github.com/Eajy/MaterialDesignDemo
+
+https://github.com/Eajy/MaterialDesign2
+
+--------------------------------------------------------------------------------------
+
 Banner Slider example android using ViewPager
 
 https://medium.com/techsuzu/auto-slider-with-indicator-in-android-a28153d42125
@@ -536,19 +576,6 @@ https://stackoverflow.com/questions/32564809/implement-google-play-music-like-an
 https://stackoverflow.com/questions/49606533/audio-record-playback-animation-on-android
 
 --------------------------------------------------------------------------------------
-
-Material Design Navigation Drawer
-
-https://medium.com/@velmm/getting-started-with-navigation-drawer-in-android-material-design-382ab03b97dd
-
-
-Material Design Code
-
-https://github.com/Eajy/MaterialDesignDemo
-
-https://github.com/Eajy/MaterialDesign2
---------------------------------------------------------------------------------------
-
 Android Arsenal Library and Apps From Github
 
 https://android-arsenal.com/tag/242?sort=created
@@ -724,5 +751,47 @@ https://androidwave.com/viewpager2-with-fragments-android-example/
 InstaMaterial App Like Instagram
 
 https://github.com/frogermcs/InstaMaterial
+
+--------------------------------------------------------------------------------------
+
+Symbol Github
+
+https://github.com/jd-alexander/LikeButton
+
+--------------------------------------------------------------------------------------
+
+File URI Exposed Exception
+https://stackoverflow.com/questions/38200282/android-os-fileuriexposedexception-file-storage-emulated-0-test-txt-exposed
+
+Show Image in default Android app
+https://stackoverflow.com/questions/5383797/open-an-image-using-uri-in-androids-default-gallery-image-viewer/6772455
+
+Show Video In Default Android App
+https://stackoverflow.com/questions/7909634/android-using-default-video-player?rq=1
+
+create thumbnail bitmap for video
+https://stackoverflow.com/questions/32517124/how-to-create-a-video-thumbnail-from-a-video-file-path-in-android#:~:text=You%20can%20use%20ThumbnailUtils%20class,video%20from%20video%20file%20path.&text=C
+reate%20a%20video%20thumbnail%20for,the%20format%20is%20not%20supported.
+
+--------------------------------------------------------------------------------------
+
+Navigation Component
+
+https://github.com/srinurp/navigation-component ***
+
+https://github.com/mitchtabian/Navigation-Components-Example
+
+https://github.com/srinurp/navigation-component
+
+https://github.com/android/architecture-components-samples/tree/master/NavigationAdvancedSample/app/src/main/res/navigation
+
+TrobleShoot for Toolbar in Fragments
+https://stackoverflow.com/questions/57014922/how-to-setup-different-toolbar-using-navigation-controller-component
+
+Pass Data Between Fragments
+https://developer.android.com/training/basics/fragments/pass-data-between
+
+Navigation Back without Reload
+https://medium.com/@programmerr47/navigate-back-with-navigation-component-6cec37ba6964
 
 --------------------------------------------------------------------------------------
